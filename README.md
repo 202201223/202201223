@@ -5,10 +5,10 @@
 [![Portfolio](https://github.com/202201223/202201223/blob/main/Capture.PNG)](https://www.datascienceportfol.io/mariamgoda)
 
 ### About Me
-I am a passionate **Data Scientist & Machine Learning Engineer** with experience in building scalable AI models, data analysis, and visualization. I enjoy working on deep learning, NLP, and AI research.
+I am a passionate Data Scientist and Machine Learning Engineer with experience building scalable AI models, data analysis, and visualization. I enjoy working on deep learning, NLP, and AI research.
 
 🔹 **Specialized in:** Machine Learning, Deep Learning, NLP, and Data Visualization.  
-🔹 **How to reach me:** mgodafahmy@gmail.com  
+🔹 **How to reach me:** m.godafahmy@gmail.com  
 🔹 **Know about my experiences:** [Resume](#)
 
 ### Tech Stack
