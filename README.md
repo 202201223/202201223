@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="[https://github.com/your-username/your-repo/blob/main/image.png](https://drive.google.com/file/d/1iUk97L0k_-mgOMli8NPIR3kIE1-AFTUO/view?usp=sharing)" alt="Banner Image" width="800">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mariam</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
