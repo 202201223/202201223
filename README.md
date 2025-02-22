@@ -25,6 +25,7 @@ I am a passionate Data Scientist and Machine Learning Engineer with experience b
 ✔ Data Cleaning Certification by Kaggle  
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mariam-goda](https://www.linkedin.com/in/mariamgoda/))  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@mariamgoda](https://medium.com/@s-mariam.goda))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariamgoda/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@s-mariam.goda)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mariammohamedgoda)
+
