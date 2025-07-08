@@ -9,7 +9,7 @@ I am a passionate Data Scientist and Machine Learning Engineer with experience b
 
 🔹 **Specialized in:** Machine Learning, Deep Learning, NLP, and Data Visualization.  
 🔹 **How to reach me:** m.godafahmy@gmail.com  
-🔹 **Know about my experiences:** [Resume]([https://drive.google.com/file/d/1TCx8EpcB2Hxh6CgidPYBl4gz5Gkc37Wf/view?usp=drive_link](https://drive.google.com/file/d/1-KNhzICaKmVYJqsMmzYsIo48pgABdXg9/view?usp=sharing)
+🔹 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1-KNhzICaKmVYJqsMmzYsIo48pgABdXg9/view?usp=drive_link)
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-blue)
