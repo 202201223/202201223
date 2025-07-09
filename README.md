@@ -1,23 +1,30 @@
-# Hi 👋, I'm Mariam
-
-## Data Scientist & Machine Learning Engineer
+<h1 align="center">Hi there 👋, I'm Mariam Mohamed Goda</h1>
+<h3 align="center">💻 Data Science & AI Student | 🧠 ML Enthusiast | 🇪🇬 From Giza, Egypt</h3>
 
 [![Portfolio](https://github.com/202201223/202201223/blob/main/Capture.PNG)](https://www.datascienceportfol.io/mariamgoda)
 
-### About Me
-I am a passionate Data Scientist and Machine Learning Engineer with experience building scalable AI models, data analysis, and visualization. I enjoy working on deep learning, NLP, and AI research.
+### 👩‍🎓 About Me
 
-🔹 **Specialized in:** Machine Learning, Deep Learning, NLP, and Data Visualization.  
-🔹 **How to reach me:** m.godafahmy@gmail.com  
-🔹 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1-KNhzICaKmVYJqsMmzYsIo48pgABdXg9/view?usp=drive_link)
+- 🎓 I'm a **Junior Data Science and AI student** at **Zewail City of Science and Technology**
+- 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
+- 🚀 Experienced in working on real-world projects in **healthcare**, **fraud detection**, and **sales forecasting**
+- 🌱 Currently learning **Flask APIs**, **Explainable AI**, and **Time Series Models**
+- 🤝 Looking to collaborate on **open-source data science and ML projects**
+- 📫 How to reach me: **m.godafahmy@gmail.com**
+- **Know about my experiences:** [Resume](https://drive.google.com/file/d/1-KNhzICaKmVYJqsMmzYsIo48pgABdXg9/view?usp=drive_link)
 
-### Tech Stack
-![Python](https://img.shields.io/badge/-Python-blue)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-![PyTorch](https://img.shields.io/badge/-PyTorch-red)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)
-![OpenCV](https://img.shields.io/badge/-OpenCV-purple)
-![Flask](https://img.shields.io/badge/-Flask-black)
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
 
 ### Certifications
 ✔ Google Cloud Data Analytics  
@@ -29,5 +36,3 @@ I am a passionate Data Scientist and Machine Learning Engineer with experience b
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@s-mariam.goda)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mariammohamedgoda)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e41845639682033b?mp_source=share)
-
-
