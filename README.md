@@ -3,15 +3,26 @@
 
 [![Portfolio](https://github.com/202201223/202201223/blob/main/Capture.PNG)](https://www.datascienceportfol.io/mariamgoda)
 
+<table>
+  <tr>
+    <td width="160">
+      <img src="https://raw.githubusercontent.com/202201223/202201223/main/download.jpg" width="150" alt="Mariam Avatar" />
+    </td>
+    <td>
+
 ### 👩‍🎓 About Me
 
-- 🎓 I'm a **Junior Data Science and AI student** at **Zewail City of Science and Technology**
+- 🎓 I'm a **Junior Data Science and AI student** at **Zewail City of Science and Technology**, graduating in 2026  
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
-- 🚀 Experienced in working on real-world projects in **healthcare**, **fraud detection**, and **sales forecasting**
 - 🌱 Currently learning **Flask APIs**, **Explainable AI**, and **Time Series Models**
-- 🤝 Looking to collaborate on **open-source data science and ML projects**
-- 📫 How to reach me: **m.godafahmy@gmail.com**
-- **Know about my experiences:** [Resume](https://drive.google.com/file/d/1-KNhzICaKmVYJqsMmzYsIo48pgABdXg9/view?usp=drive_link)
+- 🤝 Looking to collaborate on **open-source ML and Data Science projects**
+- 📫 Reach me at: **m.godafahmy@gmail.com**
+- - **Know about my experiences:** [Resume](https://drive.google.com/file/d/1-KNhzICaKmVYJqsMmzYsIo48pgABdXg9/view?usp=drive_link)
+
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🛠️ Languages and Tools
